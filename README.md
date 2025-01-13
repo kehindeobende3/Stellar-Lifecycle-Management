@@ -4,6 +4,7 @@ A pioneering platform that combines advanced stellar physics simulation with blo
 
 ## Overview
 
+
 DSLMEP revolutionizes stellar research and theoretical engineering by providing a comprehensive framework for simulating stellar evolution, proposing engineering modifications, and managing stellar resources. The platform integrates advanced physics engines with blockchain technology to create a secure, collaborative environment for pushing the boundaries of stellar engineering.
 
 ## Core Features
